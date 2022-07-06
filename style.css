@@ -1,0 +1,270 @@
+
+  body {
+    background-image: url("https://i.blogs.es/10a197/captura-de-pantalla-2021-11-01-a-las-11.30.23/840_560.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  #fondot{
+    border-radius: 20px;
+    background: rgba(13, 13, 14, 0.54);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 1000px;
+    top: 40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  } 
+
+  .pestañas a{
+    border-radius: 20px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.8) ;
+    color: rgba(51, 75, 184, 0.973);
+    padding: 120px;
+    height:fit-content; 
+    text-align: center;
+    font-size:50px ;
+    text-decoration: none;
+  }
+  .pestañas a:hover{
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.8) ;
+    color: rgb(231, 14, 14);
+    cursor:pointer;
+
+  }
+  #topm{
+    border-radius: 20px;
+    background: rgba(228, 228, 235, 0.54);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 1000px;
+    top: 40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+  #topt{
+    border-radius: 20px;
+    background: rgba(255,192,203,0.7);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 1000px;
+    top: 40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+  #topn{
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.75);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 1000px;
+    top: 40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+  .pmanga{
+    border: 1px solid rgb(255, 255, 255) ;
+    padding: 40px 0px;
+    position: relative;
+    width: 100%;
+    background: rgb(255, 255, 255, 0.40);
+  }
+  .pmanga a{
+    border-radius: 20px;
+    display: inline-block;
+    background: rgba(236, 234, 234, 0.8) ;
+    color: rgba(65, 63, 63, 0.973);
+    padding: 25px;
+    height:fit-content; 
+    text-align: center;
+    font-size:25px ;
+    text-decoration: none;
+  }
+  .pmanga a:hover{
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.8) ;
+    color: rgb(224, 223, 223);
+    cursor:pointer;
+  }
+  .panime{
+    border: 1px solid rgb(255, 255, 255) ;
+    padding: 40px 0px;
+    position: relative;
+    width: 100%;
+    background: rgba(253, 251, 109, 0.4);
+  }
+  .panime a{
+    border-radius: 20px;
+    display: inline-block;
+    background: rgba(238, 245, 139, 0.8) ;
+    color: rgba(187, 67, 77, 0.973);
+    padding: 25px;
+    height:fit-content; 
+    text-align: center;
+    font-size:25px ;
+    text-decoration: none;
+  }
+  .panime a:hover{
+    border-radius: 50px;
+    background: rgba(187, 67, 77, 0.973) ;
+    color: rgba(238, 245, 139, 0.8);
+    cursor:pointer;
+  }
+  .pnovedades a{
+    border-radius: 20px;
+    display: inline-block;
+    background: rgba(91, 61, 201, 0.8) ;
+    color: rgba(255, 255, 255, 0.973);
+    padding: 25px;
+    height:fit-content; 
+    text-align: center;
+    font-size:25px ;
+    text-decoration: none;
+  }
+  .pnovedades a:hover{
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.973) ;
+    color: rgba(91, 61, 201, 0.8);
+    cursor:pointer;
+  }
+  .pnovedades{
+    border: 1px solid rgb(255, 255, 255) ;
+    padding: 40px 0px;
+    position: relative;
+    width: 100%;
+    background: rgba(75, 156, 233, 0.5);
+  }
+  #ti1{
+    border-radius: 20px;
+    color: rgb(255, 255, 255,0.90);
+    background: rgb(71, 69, 69,0.5);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 300px;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #ti2{
+    border-radius: 20px;
+    color: rgb(71, 69, 69,0.9);
+    background: rgb(255, 255, 255,0.5);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 300px;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #tia1{
+    border-radius: 20px;
+    color: rgba(199, 30, 52, 0.9);
+    background: rgba(233, 230, 62, 0.5);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 300px;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #tia2{
+    border-radius: 20px;
+    color: rgba(233, 230, 62, 0.9);
+    background: rgba(55, 144, 216, 0.5);
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    width: 300px;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .Topa1{
+    background-color: rgba(167, 164, 164, 0.60) ;
+    border-radius: 50px;
+  }
+  .Topa2{
+    background-color: rgba(17, 16, 16, 0.56) ;
+    border-radius: 50px;
+  }
+  .Topm1{
+    background-color: rgba(223, 131, 78, 0.6) ;
+    border-radius: 50px;
+  }
+  .Topm2{
+    background-color: rgba(209, 39, 39, 0.56) ;
+    border-radius: 50px;
+  }
+
+ 
+  .Tittlem1{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(17, 16, 16, 0.75);
+  }
+  .Tittlem2{
+    text-align: center;
+    font-size: 50px ;
+    color: rgb(245, 243, 243,0.75) ;
+  }
+  .sinopsis1{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(15, 15, 15);
+  }
+  .sinopsis2{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255,0.75);
+  }
+  .sinopsisa1{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+  .sinopsisa2{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
+  .Tittlea1{
+    text-align: center;
+    font-size: 50px ;
+    color: white ;
+  }
+  .Tittlea2{
+    text-align: center;
+    font-size: 50px ;
+    color: white  ;
+  }
+
+  #db{
+   width: 1000px;
+  }
+  #HxH{
+    width: 500px;
+   }
+   .Tittlen1{
+    text-align: center;
+    font-size: 50px ;
+    color: rgb(209, 30, 90) ;
+  }
+  .tnov{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
+
+  
